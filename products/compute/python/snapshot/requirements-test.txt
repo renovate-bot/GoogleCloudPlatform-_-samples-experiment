@@ -1,6 +1,6 @@
-pytest==7.2.0
-pytest-xdist==3.3.1
+pytest==7.4.4
+pytest-xdist==3.5.0
 flaky==3.7.0
-google-cloud-storage==2.9.0
-google-cloud-kms==2.17.0
+google-cloud-storage==2.14.0
+google-cloud-kms==2.20.0
 py==1.11.0
